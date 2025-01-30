@@ -194,7 +194,6 @@ client.on('interactionCreate', async interaction => {
 
   // Handle /crash command with button
   if (commandName === 'crash') {
-    // This is my user ID you can change this to yours if you want
     const authorizedUserId = '862583929320112130';
     const userId = interaction.user.id;
 
@@ -238,7 +237,6 @@ client.on('interactionCreate', async interaction => {
 
   if (customId === 'crash_confirm') {
     // Re-authenticate before crashing
-    // This is my USER ID you can change this to your user ID to make it so that you can crash the bot
     const authorizedUserId = '862583929320112130';
     const userId = interaction.user.id;
 
@@ -268,5 +266,5 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-// Login to Discord with your app's token provided in `config.json`
+// Login to Discord with your app's token
 client.login(token);

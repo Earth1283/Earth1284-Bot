@@ -1,0 +1,10 @@
+Okay great! Seems like everything has gone smoothly!
+Now that you have downloaded this, you may begin using the bot!
+You can create your bot here: https://discord.com/developers/applications
+Remember to put your app ID and bot token in config.json
+
+ _____           _   _     _ ____  ___ _____ 
+| ____|__ _ _ __| |_| |__ / |___ \( _ )___ / 
+|  _| / _` | '__| __| '_ \| | __) / _ \ |_ \ 
+| |__| (_| | |  | |_| | | | |/ __/ (_) |__) |
+|_____\__,_|_|   \__|_| |_|_|_____\___/____/ 
